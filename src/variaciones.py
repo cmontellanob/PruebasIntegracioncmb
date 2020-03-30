@@ -28,5 +28,5 @@ def convinatoria(n,m):
     assert m >= n
     assert n>=0
     assert m>=0
-
+    print(variacion(n,m)/permutacion(n))
     return variacion(n,m)/permutacion(n)
