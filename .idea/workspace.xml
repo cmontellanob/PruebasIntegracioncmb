@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b22e7d5c-ba5a-48ed-9f14-590ce7d4b006" name="Default" comment="" />
+    <list default="true" id="b22e7d5c-ba5a-48ed-9f14-590ce7d4b006" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/variaciones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/integration/test_variaciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/integration/test_variaciones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/TestUnit_Variacion.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit/TestUnit_Variacion.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +19,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -27,8 +36,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/integration" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -45,7 +55,29 @@
       <recent name="C:\Users\Karime\PycharmProjects\TestNose\tests\unit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Nosetests in TestUnit_Variacion.py">
+  <component name="RunManager" selected="Python tests.Nosetests in test_variaciones.py">
+    <configuration name="all_Unit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestNose" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/unit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/unit/all_Unit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Nosetests in TestUnit_Combinacion.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <module name="TestNose" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,22 +91,6 @@
       <option name="_new_regexPattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/unit/TestUnit_Combinacion.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Nosetests in TestUnit_Factorial.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
-      <module name="TestNose" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/unit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/unit/TestUnit_Factorial.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -128,18 +144,18 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.Nosetests in TestUnit_Combinacion.py" />
-      <item itemvalue="Python tests.Nosetests in TestUnit_Factorial.py" />
-      <item itemvalue="Python tests.Nosetests in test_variaciones.py" />
       <item itemvalue="Python tests.Nosetests in TestUnit_Permutaciones.py" />
       <item itemvalue="Python tests.Nosetests in TestUnit_Variacion.py" />
+      <item itemvalue="Python.all_Unit" />
+      <item itemvalue="Python tests.Nosetests in test_variaciones.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Nosetests in test_variaciones.py" />
+        <item itemvalue="Python.all_Unit" />
+        <item itemvalue="Python tests.Nosetests in TestUnit_Combinacion.py" />
         <item itemvalue="Python tests.Nosetests in TestUnit_Variacion.py" />
         <item itemvalue="Python tests.Nosetests in TestUnit_Permutaciones.py" />
-        <item itemvalue="Python tests.Nosetests in TestUnit_Combinacion.py" />
-        <item itemvalue="Python tests.Nosetests in TestUnit_Factorial.py" />
-        <item itemvalue="Python tests.Nosetests in test_variaciones.py" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +171,7 @@
       <updated>1584907337744</updated>
       <workItem from="1585520943153" duration="191000" />
       <workItem from="1585525569006" duration="7384000" />
+      <workItem from="1585540728314" duration="1363000" />
     </task>
     <servers />
   </component>
@@ -174,32 +191,33 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="417" y="124" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585521047415" />
-    <state width="1286" height="244" key="GridCell.Tab.0.bottom" timestamp="1585540510525">
+    <state width="1286" height="244" key="GridCell.Tab.0.bottom" timestamp="1585542120137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="244" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585540510525" />
-    <state width="1286" height="244" key="GridCell.Tab.0.center" timestamp="1585540510524">
+    <state width="1286" height="244" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585542120137" />
+    <state width="1286" height="244" key="GridCell.Tab.0.center" timestamp="1585542120136">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="244" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585540510524" />
-    <state width="1286" height="244" key="GridCell.Tab.0.left" timestamp="1585540510524">
+    <state width="1286" height="244" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585542120136" />
+    <state width="1286" height="244" key="GridCell.Tab.0.left" timestamp="1585542120136">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="244" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585540510524" />
-    <state width="1286" height="244" key="GridCell.Tab.0.right" timestamp="1585540510524">
+    <state width="1286" height="244" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585542120136" />
+    <state width="1286" height="244" key="GridCell.Tab.0.right" timestamp="1585542120137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="244" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585540510524" />
+    <state width="1286" height="244" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585542120137" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1585525690977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585525690977" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PruebasIntegracioncmb$Nosetests_in_TestUnit_Permutaciones_py.coverage" NAME="Nosetests in TestUnit_Permutaciones.py Coverage Results" MODIFIED="1585540168007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/unit" />
-    <SUITE FILE_PATH="coverage/PruebasIntegracioncmb$Nosetests_in_TestUnit_Variacion_py.coverage" NAME="Nosetests in TestUnit_Variacion.py Coverage Results" MODIFIED="1585540183052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/unit" />
-    <SUITE FILE_PATH="coverage/PruebasIntegracioncmb$Nosetests_in_TestUnit_Combinacion_py.coverage" NAME="Nosetests in TestUnit_Combinacion.py Coverage Results" MODIFIED="1585540156900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/unit" />
-    <SUITE FILE_PATH="coverage/PruebasIntegracioncmb$Nosetests_in_test_variaciones_py.coverage" NAME="Nosetests in test_variaciones.py Coverage Results" MODIFIED="1585539983861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/integration" />
-    <SUITE FILE_PATH="coverage/PruebasIntegracioncmb$Nosetests_in_TestUnit_Factorial_py.coverage" NAME="Nosetests in TestUnit_Factorial.py Coverage Results" MODIFIED="1585540145905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/unit" />
+    <SUITE FILE_PATH="coverage/PruebasIntegracioncmb$Nosetests_in_TestUnit_Permutaciones_py.coverage" NAME="Nosetests in TestUnit_Permutaciones.py Coverage Results" MODIFIED="1585540772023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/unit" />
+    <SUITE FILE_PATH="coverage/PruebasIntegracioncmb$Nosetests_in_TestUnit_Variacion_py.coverage" NAME="Nosetests in TestUnit_Variacion.py Coverage Results" MODIFIED="1585541729736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/unit" />
+    <SUITE FILE_PATH="coverage/PruebasIntegracioncmb$Nosetests_in_TestUnit_Combinacion_py.coverage" NAME="Nosetests in TestUnit_Combinacion.py Coverage Results" MODIFIED="1585541766914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/unit" />
+    <SUITE FILE_PATH="coverage/PruebasIntegracioncmb$all_Unit.coverage" NAME="all_Unit Coverage Results" MODIFIED="1585541777377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/unit" />
+    <SUITE FILE_PATH="coverage/PruebasIntegracioncmb$Nosetests_in_test_variaciones_py.coverage" NAME="Nosetests in test_variaciones.py Coverage Results" MODIFIED="1585542120104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/integration" />
+    <SUITE FILE_PATH="coverage/PruebasIntegracioncmb$Nosetests_in_TestUnit_Factorial_py.coverage" NAME="Nosetests in TestUnit_Factorial.py Coverage Results" MODIFIED="1585540757004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/unit" />
   </component>
 </project>

@@ -9,12 +9,12 @@ def factorial(n):
         return factorial(n-1)*n
 
 def variacion(n,m):
-    assert n>=0
-    assert m>=0
-
     assert type(n) == int
     assert type(m) == int
-    return factorial(m)/factorial(n-m)
+    assert n>=0
+    assert m>=0
+    assert m >= n
+    return factorial(m)/factorial(m-n)
 
 def permutacion(n):
     assert type(n) == int
@@ -23,9 +23,10 @@ def permutacion(n):
     return factorial(n)
 
 def convinatoria(n,m):
-
-    assert n>=0
-    assert m>=0
     assert type(n) == int
     assert type(m) == int
+    assert m >= n
+    assert n>=0
+    assert m>=0
+
     return variacion(n,m)/permutacion(n)

@@ -3,7 +3,7 @@ from src.variaciones import variacion
 
 class TestVariacion(unittest.TestCase):
     def test_variacion_2numeros_enteros_menor_mayor(self):
-        assert variacion(1,2) == 1
+        assert variacion(1,2) == 2
     def test_variacion_2numeros_enteros_mayor_menor(self):
         with self.assertRaises(AssertionError):
             variacion(2,1)
